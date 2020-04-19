@@ -1,1 +1,14 @@
 /* Add application styles & imports to this file! */
+.material-icons {  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+}
