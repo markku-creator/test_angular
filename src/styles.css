@@ -1,4 +1,6 @@
 /* Add application styles & imports to this file! */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
 .material-icons {  
     /* Support for all WebKit browsers. */
     -webkit-font-smoothing: antialiased;
